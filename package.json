@@ -1,0 +1,9 @@
+{
+  "name": "sorteador-de-chaves",
+  "version": "1.0.0",
+  "description": "Sortei chaves para campeonatos de tênis estilo mata a mata.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Fernando Cavalcanti",
+  "type": "module"
+}
